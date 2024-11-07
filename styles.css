@@ -1,0 +1,15 @@
+body {
+    color:darksalmon;
+    background:bisque;
+    font-family: "Bona Nova SC", serif;
+}
+
+header {
+    border-bottom: solid 4px darksalmon;
+    font-size: 80px;
+}
+img {
+    height: 150px
+
+
+}
